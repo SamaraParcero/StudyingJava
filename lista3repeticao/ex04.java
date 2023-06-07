@@ -21,9 +21,10 @@ public class ex04 {
 		} while (par!=10){
 	    	Num = scan.nextInt();
 	    	
-	    }
+	    
 		System.out.println(soma);
         scan.close();
+        }
 	}
 
 }
