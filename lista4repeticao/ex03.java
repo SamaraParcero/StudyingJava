@@ -1,5 +1,7 @@
 package lista4repeticao;
 
+import java.util.Scanner;
+
 public class ex03 {
     public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
@@ -73,6 +75,7 @@ public class ex03 {
        } else if ((idfrequente59>idfrequente013) && (idfrequente59>idfrequente1318) && (idfrequente59>idfrequente1829) && (idfrequente59>idfrequente2949) && (idfrequente59>idfrequente4959)) {
            System.out.println("A faixa etária acima de 59 anos é a mais frequente");
        }
+       scan.close();
   }
 }
 
