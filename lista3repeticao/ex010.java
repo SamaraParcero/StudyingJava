@@ -3,6 +3,9 @@ package lista3repeticao;
 import java.util.Scanner;
 
 public class ex010 {
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
         Scanner scan= new Scanner(System.in);
         int N1, N2, menor, maior;
@@ -19,8 +22,7 @@ public class ex010 {
             for (maior=N1 ;maior>=N2; maior-- ) {
              System.out.println("Contagem: " + maior );
         }
+      }
+      scan.close();
      }
-     scan.close();
-     }
-
 }
