@@ -11,7 +11,7 @@ public class ex07 {
         for (divisores=1; numero%divisores==0; divisores++ ) {
              System.out.println("Divisores:");
              System.out.println(divisores);
-             System.out.println("amigos");
+             
         }
         scan.close();
      }
