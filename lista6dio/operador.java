@@ -22,9 +22,14 @@ public class operador {
      }
       
      //relacionais:
+     //números-
      if (numero == numero1 || numero != numero1 || numero <= numero1 || numero > numero1){
       System.out.println("sim");
      }
+      // string -
+      String nomeUm= "SAMARA";
+      String nomeDois = "SAMARA";
+      System.out.println(nomeUm.equals(nomeDois)); // .equals compara conteúdos
     }
          
 }
