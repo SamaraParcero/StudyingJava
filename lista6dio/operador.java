@@ -21,6 +21,10 @@ public class operador {
         System.out.println("iguais");
      }
       
+     //relacionais:
+     if (numero == numero1 || numero != numero1 || numero <= numero1 || numero > numero1){
+      System.out.println("sim");
+     }
     }
-
+         
 }
