@@ -30,6 +30,14 @@ public class operador {
       String nomeUm= "SAMARA";
       String nomeDois = "SAMARA";
       System.out.println(nomeUm.equals(nomeDois)); // .equals compara conteúdos
+
+      //operadores lógicos 
+      if (numero1 == numero || numero1 <= numero) { // || representa "ou"
+         System.out.println("pelo menos uma condição é verdadeira");
+      } 
+      if (numero1 == numero && numero1 <= numero) {// && representa "e"
+         System.out.println("as duas condições são verdadeiras");
+      }
     }
          
 }
