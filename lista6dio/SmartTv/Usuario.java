@@ -10,7 +10,9 @@ public class Usuario {
         System.out.println("Volume: " + smartTV.volume);
 
         smartTV.ligar();
-        System.out.println("Novo Status -> ");
+        System.out.println("Novo Status -> TV ligada? " + smartTV.ligada);
          
+        smartTV.desligar();
+         System.out.println("Novo Status -> TV ligada? " + smartTV.ligada);
     }
 }
