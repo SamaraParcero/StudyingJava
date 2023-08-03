@@ -17,6 +17,10 @@ public class Usuario {
 
          smartTV.aumentarVolume();
          smartTV.aumentarVolume();
+         smartTV.aumentarCanal();
+         System.out.println("Canal atual: " + smartTV.canal);
          
+         smartTV.mudarCanal(20);
+           System.out.println("Canal atual: " + smartTV.canal);
     }
 }
