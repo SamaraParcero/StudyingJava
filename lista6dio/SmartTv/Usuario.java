@@ -1,0 +1,16 @@
+package lista6dio.SmartTv;
+
+public class Usuario {
+    
+    public static void main (String [] args) throws Exception {
+        SistemaSmartTV smartTV = new SistemaSmartTV();
+         
+        System.out.println("TV ligada: " + smartTV.ligada);
+        System.out.println("Canal atual: " + smartTV.canal);
+        System.out.println("Volume: " + smartTV.volume);
+
+        smartTV.ligar();
+        System.out.println("Novo Status -> ");
+         
+    }
+}
