@@ -14,8 +14,21 @@ public class SistemaSmartTV {
 
    public void aumentarVolume(){
     volume++;
+    System.out.println("Volume: " + volume);
    }
     public void diminuirVolume(){
     volume--;
+    System.out.println("Volume: " + volume);
+   }
+
+   public void  aumentarCanal() {
+    canal++;
+   }
+   public void  diminuirCanal() {
+    canal--;
+   }
+
+   public void mudarCanal(int novoCanal){
+    canal = novoCanal;
    }
 }

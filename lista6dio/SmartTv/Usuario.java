@@ -14,5 +14,9 @@ public class Usuario {
          
         smartTV.desligar();
          System.out.println("Novo Status -> TV ligada? " + smartTV.ligada);
+
+         smartTV.aumentarVolume();
+         smartTV.aumentarVolume();
+         
     }
 }
