@@ -1,0 +1,294 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ex01",
+            "request": "launch",
+            "mainClass": "lista1.ex01",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex02",
+            "request": "launch",
+            "mainClass": "lista1.ex02",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex03",
+            "request": "launch",
+            "mainClass": "lista1.ex03",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex04",
+            "request": "launch",
+            "mainClass": "lista1.ex04",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex05",
+            "request": "launch",
+            "mainClass": "lista1.ex05",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex06",
+            "request": "launch",
+            "mainClass": "lista1.ex06",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex07",
+            "request": "launch",
+            "mainClass": "lista1.ex07",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex08",
+            "request": "launch",
+            "mainClass": "lista1.ex08",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex01(1)",
+            "request": "launch",
+            "mainClass": "lista2.ex01",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex02(1)",
+            "request": "launch",
+            "mainClass": "lista2.ex02",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex03(1)",
+            "request": "launch",
+            "mainClass": "lista2.ex03",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex04(1)",
+            "request": "launch",
+            "mainClass": "lista2.ex04",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex05(1)",
+            "request": "launch",
+            "mainClass": "lista2.ex05",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex01(2)",
+            "request": "launch",
+            "mainClass": "lista3repeticao.ex01",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex010",
+            "request": "launch",
+            "mainClass": "lista3repeticao.ex010",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex011",
+            "request": "launch",
+            "mainClass": "lista3repeticao.ex011",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex012",
+            "request": "launch",
+            "mainClass": "lista3repeticao.ex012",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex013",
+            "request": "launch",
+            "mainClass": "lista3repeticao.ex013",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex014",
+            "request": "launch",
+            "mainClass": "lista3repeticao.ex014",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex02(2)",
+            "request": "launch",
+            "mainClass": "lista3repeticao.ex02",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex03(2)",
+            "request": "launch",
+            "mainClass": "lista3repeticao.ex03",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex04(2)",
+            "request": "launch",
+            "mainClass": "lista3repeticao.ex04",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex05(2)",
+            "request": "launch",
+            "mainClass": "lista3repeticao.ex05",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex06(1)",
+            "request": "launch",
+            "mainClass": "lista3repeticao.ex06",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex07(1)",
+            "request": "launch",
+            "mainClass": "lista3repeticao.ex07",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex08(1)",
+            "request": "launch",
+            "mainClass": "lista3repeticao.ex08",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex09",
+            "request": "launch",
+            "mainClass": "lista3repeticao.ex09",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex01(3)",
+            "request": "launch",
+            "mainClass": "lista4repeticao.ex01",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex02(3)",
+            "request": "launch",
+            "mainClass": "lista4repeticao.ex02",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex03(3)",
+            "request": "launch",
+            "mainClass": "lista4repeticao.ex03",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex01(4)",
+            "request": "launch",
+            "mainClass": "lista5.ex01",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex02(4)",
+            "request": "launch",
+            "mainClass": "lista5.ex02",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex03(4)",
+            "request": "launch",
+            "mainClass": "lista5.ex03",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex04(3)",
+            "request": "launch",
+            "mainClass": "lista5.ex04",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex05(3)",
+            "request": "launch",
+            "mainClass": "lista5.ex05",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex06(2)",
+            "request": "launch",
+            "mainClass": "lista5.ex06",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "ex07(2)",
+            "request": "launch",
+            "mainClass": "lista5.ex07",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "Metodo",
+            "request": "launch",
+            "mainClass": "lista6dio.Metodo",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "lista6dio.SmartTv.Usuario",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "operador",
+            "request": "launch",
+            "mainClass": "lista6dio.operador",
+            "projectName": "StudyingJava_24aea5fe"
+        }
+    ]
+}
