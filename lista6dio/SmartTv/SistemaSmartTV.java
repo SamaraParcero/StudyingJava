@@ -1,4 +1,4 @@
-package lista6dio.SmartTv;
+package SmartTv;
 
 public class SistemaSmartTV {
    boolean ligada =false;

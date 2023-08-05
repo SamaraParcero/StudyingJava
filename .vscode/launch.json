@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Condicaoternaria",
+            "request": "launch",
+            "mainClass": "Condicaoternaria",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
             "name": "CaixaEletronico",
             "request": "launch",
             "mainClass": "CaixaEletronico",

@@ -1,4 +1,4 @@
-package lista6dio;
+
 
 public class operador {
     public static void main (String [] args){
