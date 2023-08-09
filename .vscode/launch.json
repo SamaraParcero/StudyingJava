@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "While",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
             "name": "ForArray",
             "request": "launch",
             "mainClass": "ForArray",
