@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ForArray",
+            "request": "launch",
+            "mainClass": "ForArray",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
             "name": "TamanhoCamisa",
             "request": "launch",
             "mainClass": "TamanhoCamisa",
