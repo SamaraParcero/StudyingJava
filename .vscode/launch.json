@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Excecao",
+            "request": "launch",
+            "mainClass": "Excecao",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "DoWhile",
+            "projectName": "StudyingJava_24aea5fe"
+        },
+        {
+            "type": "java",
             "name": "While",
             "request": "launch",
             "mainClass": "While",

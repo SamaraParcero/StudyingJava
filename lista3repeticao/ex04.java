@@ -18,13 +18,13 @@ public class ex04 {
 	    } else 
 	    	impar = impar + 1;
 	        somaimpar = somaimpar + Num;
-		} while (par!=10){
+		} while (par!=10);
 	    	Num = scan.nextInt();
 	    	
 	    
 		System.out.println(soma);
         scan.close();
         }
-	}
-
 }
+
+
