@@ -22,7 +22,7 @@ public class Excecao {
          System.out.println("Digite sua altura");
         altura= scan.nextFloat();
        } 
-       catch( InputMismatchException e){
+       catch( InputMismatchException exception){
         System.out.println("Informar os campos idade e altura precisam ser numéricos");
        }
     }
