@@ -1,14 +1,21 @@
 public class FormatarCepExemplo {
-    public static void main(String[] args) {
+
+public class CepInvalidoExeception extends Exception{
+    public CepInvalidoExeception(){
+        super("CEP inválido");
+    }
+}
+public static void main(String[] args) {
         try{
-            String cepFormatado = formatarCep("12345678")
-        } catch (CepInvalidoExecption exception){
-            exception.printStackTrace();
+             String cepFormatado = formatarCep("12345678");
+             System.out.println(cepFormatado);
+        } catch (CepInvalidoExeception exception){
+           System.out.println("O cep não corresponde com as regras ");
         }
     }
-    static String formatarCep(String cep) throws CepInvalidoExecption {
+    static String formatarCep(String cep) throws CepInvalidoExeception {
         if (cep.length() != 8)
-            throw new CepInvalidoExecption();
+            throw new CepInvalidoExeception();
         return "23.765-064";
     }
 }
